@@ -1,0 +1,10 @@
+:root {
+    --main-color: white;
+}
+.shadow {
+    transition: 0.5s all;
+    /* outline: 1px solid white; */
+    box-shadow: inset 5em 1em gold;
+}
+.shadow:hover {
+}
